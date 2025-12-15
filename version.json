@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "changelog": "## ECU Editor v1.0.0\n\n### New Features\n• VCM2/VCM3 support\n• Temperature editing\n• Speed editing\n• BIN file patching\n\n### Improvements\n• Dark mode UI\n• Real-time gauges\n• Auto-save warning\n\n### Bug Fixes\n• Fixed file loading issues\n• Improved speed calculation",
+  "download_url": "https://github.com/ZaidElsayed/ECU-Editor/releases/download/v1.0.0/ECU_Editor_v1.0.0.zip",
+  "asset_name": "ECU_Editor_v1.0.0.zip",
+  "release_date": "2024-01-15",
+  "release_url": "https://github.com/ZaidElsayed/ECU-Editor/releases/tag/v1.0.0"
+}
