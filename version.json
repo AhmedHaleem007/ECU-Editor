@@ -1,7 +1,8 @@
 {
-  "version": "2.0.16",
-  "changelog": "• Added auto-update system\n• Fixed bugs\n• Improved performance",
-  "download_url": "https://github.com/AhmedHaleem007/ECU-Editor/releases/download/v2.0.0/ECU.Editor.exe",
-  "release_date": "2025-12-15",
-  "asset_name": "ECU-Editor.exe"
+    "version": "2.0.2",
+    "download_url": "https://github.com/AhmedHaleem007/ECU-Editor/releases/download/v2.0.2/ECU%20Editor.exe",
+    "asset_name": "ECU Editor.exe",
+    "release_date": "2026-05-20",
+    "changelog": "Changed edited BIN save cost to 1 token and fixed backend token deduction.",
+    "release_url": "https://github.com/AhmedHaleem007/ECU-Editor/releases/tag/v2.0.2"
 }
